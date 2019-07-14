@@ -1,6 +1,7 @@
 # QCalculator
-A Quick & simple Desktop based Calculator using [Qt](https://www.qt.io/) & [C++](https://en.wikipedia.org/wiki/C%2B%2B).
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A Quick & simple Desktop based Calculator using [Qt](https://www.qt.io/) & [C++](https://en.wikipedia.org/wiki/C%2B%2B).
 
 <img src="./screenshots/1.png" width="250">
 
