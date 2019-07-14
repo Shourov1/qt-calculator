@@ -10,4 +10,4 @@ A Quick & simple Desktop based Calculator using [Qt](https://www.qt.io/) & [C++]
 
 ## Author
 
-* **Md Shariful Alam** - [Shariful](https://github.com/Shourov1)*
+* **Md Shariful Alam** - [Shariful](https://github.com/Shourov1)
